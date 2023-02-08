@@ -635,6 +635,6 @@ Yury Kashnitsky
 - [mathprofi.ru](http://mathprofi.ru) - Высшая математика – просто и доступно. [Mirror](http://mathprofi.net)
 
 
-### Credit <a href=""> Mikhail Dozmorov </a>
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+### Credit <a href="#"> Mikhail Dozmorov </a>
+
     
